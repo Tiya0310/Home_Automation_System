@@ -1,6 +1,6 @@
 # Home_Automation_System
 
-Introduction
+# Introduction
 
 a home automation system, made using object-oriented programming, exceptional handling and multi-threading in Java, that allows a user to have control over various rooms and devices of their home, limited access to other users apart from the owner, etc.
 
